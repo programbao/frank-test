@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div>
+  按钮
+</div>
+`;
+
+exports[`我的第一个测试用例 是一个div 1`] = `
+<div>
+  按钮
+</div>
+`;
